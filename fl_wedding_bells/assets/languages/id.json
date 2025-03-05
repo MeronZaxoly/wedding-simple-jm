@@ -1,0 +1,308 @@
+{
+    "exit_app": {
+        "app_exit": "Tekan kembali sekali lagi untuk keluar"
+    },
+    "albums": {
+        "albums": "Album",
+        "image": "gambar"
+    },
+    "login": {
+        "login": "Gabung",
+        "mobile_number": "Nomor handphone",
+        "enter_number": "Masukkan nomor ponsel",
+        "login_text": "Harap Masuk Akun Anda"
+    },
+    "otp": {
+        "resend": "Ulang",
+        "verify": "Memeriksa",
+        "please_wait": "Mohon tunggu",
+        "otp_text": "Kami telah mengirimi Anda SMS di 1234567890 dengan kode verifikasi 4 digit (OTP)",
+        "otp_verification": "Verifikasi OTP"
+    },
+    "register": {
+        "register": "Daftar",
+        "name": "Nama",
+        "enter_name": "Masukkan nama Anda",
+        "mobile_number": "Nomor handphone",
+        "enter_number": "Masukkan nomor ponsel",
+        "email_address": "Alamat email",
+        "enter_email": "Masukkan alamat email",
+        "create_account": "Harap Buat Akun Anda"
+    },
+    "bottom_navigation": {
+        "home": "Rumah",
+        "vendors": "Vendor",
+        "task": "Tugas",
+        "message": "Pesan",
+        "profile": "Profil"
+    },
+    "budgets": {
+        "budgets": "Anggaran",
+        "expenses": "Pengeluaran",
+        "add_expenses": "Tambahkan biaya",
+        "enter_title": "Masukkan judul",
+        "enter_expenses": "Masukkan biaya",
+        "add": "Menambahkan",
+        "add_budget": "Tambahkan anggaran Anda",
+        "enter_budgets": "Masukkan anggaran Anda",
+        "total_estimate": "Perkiraan Total",
+        "spent": "Dihabiskan",
+        "remaining": "Tersisa"
+    },
+    "calling": {
+        "calling": "Panggilan...",
+        "name": "Brooklyn Simmons"
+    },
+    "chat": {
+        "name": "Biru Lihat Perjamuan",
+        "type_here": "Ketik teks Anda di sini ...."
+    },
+    "check_availablility": {
+        "ring_ceremony": "Upacara Ring",
+        "marriage": "Pernikahan",
+        "birthday_celebration": "Perayaan ulang tahun",
+        "reception": "Penerimaan",
+        "check_availability": "Cek ketersediaan",
+        "availability_text": "Isi formulir \n Periksa ketersediaan",
+        "number_guest": "Jumlah tamu",
+        "hint_number_guest": "Jumlah tamu",
+        "function_type": "Tipe fungsi",
+        "event_date": "Tanggal Acara"
+    },
+    "credit_card": {
+        "payment_information": "Informasi Pembayaran",
+        "payment": "Pembayaran",
+        "enter_holder_name": "Masukkan Nama Pemegang Kartu",
+        "name_card": "Nama di kartu",
+        "enter_card_number": "Masukkan nomor kartu",
+        "card_number": "Nomor kartu",
+        "cvv": "CVV",
+        "expire_date": "Tanggal kadaluarsa",
+        "credit_card": "Kartu kredit",
+        "card_holder": "Pemegang kartu"
+    },
+    "dining_area": {
+        "dining_area": "Ruang makan"
+    },
+    "guest_list": {
+        "guest_list": "Daftar tamu",
+        "add_guest": "Tambahkan tamu",
+        "enter_guest_name": "Masukkan nama tamu",
+        "add": "Menambahkan"
+    },
+    "home": {
+        "wedding_package": "Paket Pernikahan",
+        "wedding_venue": "Tempat pernikahan yang terkenal",
+        "trending_decore": "Decore yang tren",
+        "onwards": "dan seterusnya",
+        "view_all": "Lihat semua",
+        "categories": "Kategori",
+        "search": "Mencari",
+        "select_city": "Pilih Kota"
+    },
+    "message": {
+        "message": "Pesan",
+        "search": "Mencari"
+    },
+    "notification": {
+        "notification": "Pemberitahuan",
+        "no_notification": "Tidak ada pemberitahuan baru",
+        "remove_notification": "Dihapus dari pemberitahuan",
+        "ago": "yang lalu"
+    },
+    "onboarding": {
+        "text_1": "Atur Pernikahan Impian Anda",
+        "text_2": "Temukan tempat yang sempurna",
+        "text_3": "Buat daftar tamu, kelola anggaran Anda",
+        "skip": "Melewati",
+        "login": "Gabung",
+        "next": "Lanjut"
+    },
+    "package_detail": {
+        "add_shortlist": "Paket Della Resorts Tambahkan ke daftar pendek",
+        "remove_shortlist": "Paket Della Resorts Hapus dari daftar pendek",
+        "image": "gambar",
+        "check_availability": "Cek ketersediaan",
+        "review": "Tinjauan",
+        "similar_package": "Paket serupa",
+        "onward": "maju",
+        "albums": "Album (16)",
+        "view_all": "Lihat semua",
+        "areas_available": "Area tersedia",
+        "outdoor": "Di luar ruangan",
+        "seats": "tempat duduk",
+        "indoor": "Dalam",
+        "package_price": "Harga paket",
+        "onwards": "dan seterusnya",
+        "include_all": "(termasuk semua fungsi)",
+        "about": "Tentang",
+        "show_less": "Tunjukkan lebih sedikit",
+        "read_more": "Baca lebih banyak",
+        "guest": "tamu"
+    },
+    "about_us": {
+        "about_us": "Tentang kami"
+    },
+    "booking": {
+        "booking": "Pemesanan",
+        "no_booking": "Belum ada pemesanan",
+        "guest": "tamu",
+        "message": "Pesan",
+        "call": "Panggilan",
+        "remove_text": "Apakah Anda yakin ingin menghapus tempat pemesanan Anda?",
+        "no": "Tidak",
+        "yes": "Ya",
+        "remove": "Menghapus"
+    },
+    "customer_support": {
+        "write_us": "Tuliskan kami",
+        "text": "Beri tahu kami kebutuhan Anda",
+        "send": "Kirim",
+        "message": "Pesan",
+        "write_message": "Tulis pesan di sini",
+        "email_address": "Alamat email",
+        "enter_email": "Masukkan alamat email",
+        "name": "Nama",
+        "enter_name": "Masukkan nama Anda",
+        "call_us": "Hubungi kami",
+        "mail_us": "Kirimkan kami"
+    },
+    "edit_profile": {
+        "edit_profile": "Sunting profil",
+        "save": "Menyimpan",
+        "email_address": "Alamat email",
+        "enter_email": "Masukkan alamat email Anda",
+        "mobile_number": "Nomor handphone",
+        "enter_number": "Masukkan nomor ponsel Anda",
+        "name": "Nama",
+        "enter_name": "Masukkan nama Anda",
+        "upload_image": "Unggah gambar",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "remove": "Menghapus"
+    },
+    "faqs": {
+        "faqs": "FAQ"
+    },
+    "language": {
+        "language": "Bahasa",
+        "select_language": "Pilih bahasa yang disukai",
+        "update": "Memperbarui"
+    },
+    "privacy_policy": {
+        "privacy_policy": "Kebijakan pribadi",
+        "terms_use": "Syarat Penggunaan"
+    },
+    "profile": {
+        "profile": "Profil",
+        "edit_profile": "Sunting profil",
+        "booking": "Pemesanan",
+        "budget": "Anggaran",
+        "language": "Bahasa",
+        "about_us": "Tentang kami",
+        "faqs": "FAQ",
+        "privacy_policy": "Kebijakan pribadi",
+        "customer_support": "Dukungan pelanggan",
+        "logout": "Keluar",
+        "logout_text": "Apakah Anda yakin ingin keluar?",
+        "no": "Tidak"
+    },
+    "review": {
+        "review": "Tinjauan"
+    },
+    "search": {
+        "search": "Mencari"
+    },
+    "success": {
+        "booking_success": "Pemesanan Sukses",
+        "back_home": "Kembali ke rumah"
+    },
+    "task": {
+        "task": "Tugas",
+        "plan_wedding": "Rencanakan pernikahan Anda",
+        "to_do_list": "Untuk melakukan daftar",
+        "guestlist": "Daftar tamu",
+        "vendor_shortlist": "Daftar Penyelidikan Vendor",
+        "budget": "Anggaran",
+        "days": "hari -hari",
+        "hrs": "jam",
+        "mins": "menit",
+        "secs": "secs",
+        "upload_image": "Unggah gambar",
+        "camera": "Kamera",
+        "gallery": "Galeri",
+        "remove": "Menghapus",
+        "save": "Menyimpan",
+        "groome_name": "Nama pengantin pria",
+        "bride_name": "Nama pengantin",
+        "event_date": "Tanggal Acara"
+    },
+    "todo_list": {
+        "todo_list": "Untuk melakukan daftar",
+        "task_done": "Tugas selesai",
+        "day_left": "hari tersisa",
+        "done": "selesai",
+        "to_do": "melakukan"
+    },
+    "trending_decore": {
+        "trending_decore": "Decore yang tren",
+        "onwards": "dan seterusnya"
+    },
+    "vendors": {
+        "vendors": "Vendor"
+    },
+    "vendor_shortlist": {
+        "vendor_shortlist": "Daftar Penyelidikan Vendor",
+        "add_shortlist": "Tambahkan ke daftar pendek",
+        "removed_shortlist": "Dihapus dari daftar pendek",
+        "result": "hasil"
+    },
+    "venue_available": {
+        "venue_available": "Tempatnya tersedia",
+        "book_now": "Pesan sekarang"
+    },
+    "venue_detail": {
+        "add_shortlist": "Perjamuan laut biru menambah daftar pendek",
+        "remove_shortlist": "Perjuangan Laut Biru Dihapus dari Daftar Pendek",
+        "image": "gambar",
+        "check_availability": "Cek ketersediaan",
+        "review": "Tinjauan",
+        "view_all": "Lihat semua",
+        "similar_venue": "Tempat serupa",
+        "onward": "maju",
+        "albums": "Album (16)",
+        "areas_available": "Area tersedia",
+        "outdoor": "Di luar ruangan",
+        "seats": "tempat duduk",
+        "indoor": "Dalam",
+        "payment": "Pembayaran",
+        "onwards": "dan seterusnya",
+        "advance_payment": "pembayaran pemesanan di muka",
+        "about": "Tentang",
+        "show_less": "Tunjukkan lebih sedikit",
+        "read_more": "Baca lebih banyak",
+        "guest": "tamu"
+    },
+    "venues": {
+        "venue": "Lokasi",
+        "guest": "tamu",
+        "add_shortlist": "Perjamuan laut biru menambah daftar pendek",
+        "remove_shortlist": "Perjuangan Laut Biru Dihapus dari Daftar Pendek",
+        "search_venues": "Cari tempat pernikahan"
+    },
+    "venue_shortlist": {
+        "venues": "Yang akan datang",
+        "guest": "tamu",
+        "message": "Pesan",
+        "call": "Panggilan",
+        "finalised": "Difinalisasi"
+    },
+    "wedding_packages": {
+        "wedding_package": "Paket Pernikahan",
+        "onwards": "dan seterusnya"
+    },
+    "wedding_venue": {
+        "famous_venue": "Tempat pernikahan yang terkenal",
+        "onwards": "dan seterusnya"
+    }
+}

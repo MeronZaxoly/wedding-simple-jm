@@ -1,0 +1,98 @@
+name: fl_wedding_bells
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  onboarding: ^3.1.0
+  page_transition: ^2.0.9
+  intl_phone_field: ^3.1.0
+  flutter_spinkit: ^5.1.0
+  readmore: ^2.2.0
+  intl: ^0.18.1
+  flutter_credit_card: ^3.0.4
+  line_awesome_flutter: ^2.0.0
+  dotted_border: ^2.0.0+3
+  flutter_slidable: ^3.1.0
+  percent_indicator: ^4.2.2
+  shared_preferences: ^2.0.15
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/splash/
+    - assets/onboarding/
+    - assets/auth/
+    - assets/home/
+    - assets/notifications/
+    - assets/venue/
+    - assets/calling/
+    - assets/packageDetail/
+    - assets/venueDetail/
+    - assets/albums/
+    - assets/diningArea/
+    - assets/review/
+    - assets/available/
+    - assets/creditCard/
+    - assets/weddingPackages/
+    - assets/weddingVenues/
+    - assets/trendingDecore/
+    - assets/vendors/
+    - assets/task/
+    - assets/todoList/
+    - assets/vendorShortList/
+    - assets/venueShortlist/
+    - assets/messages/
+    - assets/profile/
+    - assets/languages/
+
+  fonts:
+    - family: Philosopher
+      fonts:
+        - asset: fonts/Philosopher-BoldItalic.ttf
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Bold.ttf
+          weight: 800
+        - asset: fonts/Montserrat-Medium.ttf
+          weight: 300
+        - asset: fonts/Montserrat-SemiBold.ttf
+          weight: 500 
+        - asset: fonts/Montserrat-Regular.ttf
+          weight: 200

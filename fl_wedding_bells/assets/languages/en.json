@@ -1,0 +1,308 @@
+{
+    "exit_app": {
+        "app_exit": "Press back once again to exit"
+    },
+    "albums": {
+        "albums": "Albums",
+        "image": "image"
+    },
+    "login": {
+        "login": "Login",
+        "mobile_number": "Mobile number",
+        "enter_number": "Enter mobile number",
+        "login_text": "Please login your account"
+    },
+    "otp": {
+        "resend": "Resend",
+        "verify": "Verify",
+        "please_wait": "Please wait",
+        "otp_text": "we have sent you an SMS on 1234567890 with a 4 digit verification code(OTP)",
+        "otp_verification": "OTP verification"
+    },
+    "register": {
+        "register": "Register",
+        "name": "Name",
+        "enter_name": "Enter your name",
+        "mobile_number": "Mobile number",
+        "enter_number": "Enter mobile number",
+        "email_address": "Email address",
+        "enter_email": "Enter email address",
+        "create_account": "Please create your account"
+    },
+    "bottom_navigation": {
+        "home": "Home",
+        "vendors": "Vendors",
+        "task": "Task",
+        "message": "Message",
+        "profile": "Profile"
+    },
+    "budgets": {
+        "budgets": "Budgets",
+        "expenses": "Expenses",
+        "add_expenses": "Add expenses",
+        "enter_title": "Enter title",
+        "enter_expenses": "Enter expenses",
+        "add": "Add",
+        "add_budget": "Add your budgets",
+        "enter_budgets": "Enter your budgets",
+        "total_estimate": "Total Estimate",
+        "spent": "Spent",
+        "remaining": "Remaining"
+    },
+    "calling": {
+        "calling": "Calling...",
+        "name": "Brooklyn Simmons"
+    },
+    "chat": {
+        "name": "Blue See Banquets",
+        "type_here": "Type your text here...."
+    },
+    "check_availablility": {
+        "ring_ceremony": "Ring Ceremony",
+        "marriage": "Marriage",
+        "birthday_celebration": "Birth Day Celebration",
+        "reception": "Reception",
+        "check_availability": "Check availability",
+        "availability_text": "Fill the form  to\nCheck availabilty",
+        "number_guest": "Number of guest",
+        "hint_number_guest": "Number of guest",
+        "function_type": "Function type",
+        "event_date": "Event date"
+    },
+    "credit_card": {
+        "payment_information": "Payment information",
+        "payment": "Payment",
+        "enter_holder_name": "Enter card holder name",
+        "name_card": "Name on card",
+        "enter_card_number": "Enter card number",
+        "card_number": "Card number",
+        "cvv": "CVV",
+        "expire_date": "Expire date",
+        "credit_card": "Credit Card",
+        "card_holder": "Card holder"
+    },
+    "dining_area": {
+        "dining_area": "Dining area"
+    },
+    "guest_list": {
+        "guest_list": "Guest list",
+        "add_guest": "Add guest",
+        "enter_guest_name": "Enter guest name",
+        "add": "Add"
+    },
+    "home": {
+        "wedding_package": "Wedding package",
+        "wedding_venue": "Famous wedding venue",
+        "trending_decore": "Trending decore",
+        "onwards": "onwards",
+        "view_all": "View all",
+        "categories": "Categories",
+        "search": "Search",
+        "select_city": "Select city"
+    },
+    "message": {
+        "message": "Message",
+        "search": "Search"
+    },
+    "notification": {
+        "notification": "Notification",
+        "no_notification": "No new notifiaction",
+        "remove_notification": "Removed from notification",
+        "ago": "ago"
+    },
+    "onboarding": {
+        "text_1": "Organise your dream wedding",
+        "text_2": "Find your perfect venues",
+        "text_3": "Make a guest list, manage your budget",
+        "skip": "Skip",
+        "login": "Login",
+        "next": "Next"
+    },
+    "package_detail": {
+        "add_shortlist": "Della resorts package add to shortlist",
+        "remove_shortlist": "Della resorts package remove from shortlist",
+        "image": "image",
+        "check_availability": "Check availability",
+        "review": "Review",
+        "similar_package": "Similar package",
+        "onward": "onward",
+        "albums": "Albums(16)",
+        "view_all": "View all",
+        "areas_available": "Areas available",
+        "outdoor": "Outdoor",
+        "seats": "seats",
+        "indoor": "Indoor",
+        "package_price": "Package price",
+        "onwards": "onwards",
+        "include_all": "(include all function)",
+        "about": "About",
+        "show_less": "Show less",
+        "read_more": "Read more",
+        "guest": "guest"
+    },
+    "about_us": {
+        "about_us": "About us"
+    },
+    "booking": {
+        "booking": "Booking",
+        "no_booking": "No booking yet",
+        "guest": "guest",
+        "message": "Message",
+        "call": "Call",
+        "remove_text": "Are you sure you want to remove your booking venue?",
+        "no": "No",
+        "yes": "Yes",
+        "remove": "Remove"
+    },
+    "customer_support": {
+        "write_us": "Write us",
+        "text": "Let's us know your requirement",
+        "send": "Send",
+        "message": "Message",
+        "write_message": "Write message here",
+        "email_address": "Email address",
+        "enter_email": "Enter email address",
+        "name": "Name",
+        "enter_name": "Enter your name",
+        "call_us": "Call us",
+        "mail_us": "Mail us"
+    },
+    "edit_profile": {
+        "edit_profile": "Edit profile",
+        "save": "Save",
+        "email_address": "Email address",
+        "enter_email": "Enter your email address",
+        "mobile_number": "Mobile number",
+        "enter_number": "Enter your mobile number",
+        "name": "Name",
+        "enter_name": "Enter your name",
+        "upload_image": "Upload image",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "remove": "Remove"
+    },
+    "faqs": {
+        "faqs": "FAQs"
+    },
+    "language": {
+        "language": "Language",
+        "select_language": "Select preferred language",
+        "update": "Update"
+    },
+    "privacy_policy": {
+        "privacy_policy": "Privacy policy",
+        "terms_use": "Terms of use"
+    },
+    "profile": {
+        "profile": "Profile",
+        "edit_profile": "Edit profile",
+        "booking": "Booking",
+        "budget": "Budget",
+        "language": "Language",
+        "about_us": "About us",
+        "faqs": "FAQs",
+        "privacy_policy": "Privacy policy",
+        "customer_support": "Customer support",
+        "logout": "Logout",
+        "logout_text": "Are you sure you want to logout?",
+        "no": "No"
+    },
+    "review": {
+        "review": "Review"
+    },
+    "search": {
+        "search": "Search"
+    },
+    "success": {
+        "booking_success": "Booking successfull",
+        "back_home": "Back to home"
+    },
+    "task": {
+        "task": "Task",
+        "plan_wedding": "Plan your wedding",
+        "to_do_list": "To do list",
+        "guestlist": "Guestlist",
+        "vendor_shortlist": "Vendor shortlist",
+        "budget": "Budget",
+        "days": "days",
+        "hrs": "hrs",
+        "mins": "mins",
+        "secs": "secs",
+        "upload_image": "Upload image",
+        "camera": "Camera",
+        "gallery": "Gallery",
+        "remove": "Remove",
+        "save": "Save",
+        "groome_name": "Groom name",
+        "bride_name": "Bride name",
+        "event_date": "Event date"
+    },
+    "todo_list": {
+        "todo_list": "To do list",
+        "task_done": "Task done",
+        "day_left": "day left",
+        "done": "done",
+        "to_do": "to do"
+    },
+    "trending_decore": {
+        "trending_decore": "Trending decore",
+        "onwards": "onwards"
+    },
+    "vendors": {
+        "vendors": "Vendors"
+    },
+    "vendor_shortlist": {
+        "vendor_shortlist": "Vendor shortlist",
+        "add_shortlist": "add to shortlist",
+        "removed_shortlist": "Removed from shortlist",
+        "result": "result"
+    },
+    "venue_available": {
+        "venue_available": "The venue is available",
+        "book_now": "Book now"
+    },
+    "venue_detail": {
+        "add_shortlist": "Blue Sea Banquets add to shortlist",
+        "remove_shortlist": "Blue Sea Banquets remove from shortlist",
+        "image": "image",
+        "check_availability": "Check availability",
+        "review": "Review",
+        "view_all": "View all",
+        "similar_venue": "Similar venue's",
+        "onward": "onward",
+        "albums": "Albums(16)",
+        "areas_available": "Areas available",
+        "outdoor": "Outdoor",
+        "seats": "seats",
+        "indoor": "Indoor",
+        "payment": "Payment",
+        "onwards": "onwards",
+        "advance_payment": "advance booking payment",
+        "about": "About",
+        "show_less": "Show less",
+        "read_more": "Read more",
+        "guest": "guest"
+    },
+    "venues": {
+        "venue": "Venue",
+        "guest": "guest",
+        "add_shortlist": "Blue sea Banquets add to shortlist",
+        "remove_shortlist": "Blue sea Banquets remove from shortlist",
+        "search_venues": "Search wedding venues"
+    },
+    "venue_shortlist": {
+        "venues": "Venues",
+        "guest": "guest",
+        "message": "Message",
+        "call": "Call",
+        "finalised": "Finalised"
+    },
+    "wedding_packages": {
+        "wedding_package": "Wedding package",
+        "onwards": "onwards"
+    },
+    "wedding_venue": {
+        "famous_venue": "Famous wedding venue",
+        "onwards": "onwards"
+    }
+}

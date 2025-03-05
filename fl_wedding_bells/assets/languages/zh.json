@@ -1,0 +1,308 @@
+{
+    "exit_app": {
+        "app_exit": "再次向后退出"
+    },
+    "albums": {
+        "albums": "专辑",
+        "image": "图片"
+    },
+    "login": {
+        "login": "登录",
+        "mobile_number": "手机号码",
+        "enter_number": "输入手机号码",
+        "login_text": "请登录您的帐户"
+    },
+    "otp": {
+        "resend": "重发",
+        "verify": "核实",
+        "please_wait": "请稍等",
+        "otp_text": "我们已通过4位数字验证代码（OTP）向您发送了1234567890的短信",
+        "otp_verification": "OTP验证"
+    },
+    "register": {
+        "register": "登记",
+        "name": "姓名",
+        "enter_name": "输入你的名字",
+        "mobile_number": "手机号码",
+        "enter_number": "输入手机号码",
+        "email_address": "电子邮件地址",
+        "enter_email": "请输入电邮地址",
+        "create_account": "请创建您的帐户"
+    },
+    "bottom_navigation": {
+        "home": "家",
+        "vendors": "供应商",
+        "task": "任务",
+        "message": "信息",
+        "profile": "轮廓"
+    },
+    "budgets": {
+        "budgets": "预算",
+        "expenses": "花费",
+        "add_expenses": "添加费用",
+        "enter_title": "输入标题",
+        "enter_expenses": "输入费用",
+        "add": "添加",
+        "add_budget": "添加您的预算",
+        "enter_budgets": "输入您的预算",
+        "total_estimate": "总估计",
+        "spent": "花费",
+        "remaining": "其余的"
+    },
+    "calling": {
+        "calling": "叫...",
+        "name": "布鲁克林·西蒙斯"
+    },
+    "chat": {
+        "name": "蓝色见宴会",
+        "type_here": "在此输入文字...."
+    },
+    "check_availablility": {
+        "ring_ceremony": "戒指仪式",
+        "marriage": "婚姻",
+        "birthday_celebration": "出生日庆祝活动",
+        "reception": "接待",
+        "check_availability": "检查可用性",
+        "availability_text": "填写表格 \n 检查可用性",
+        "number_guest": "客人数量",
+        "hint_number_guest": "客人数量",
+        "function_type": "功能类型",
+        "event_date": "活动日期"
+    },
+    "credit_card": {
+        "payment_information": "支付信息",
+        "payment": "支付",
+        "enter_holder_name": "输入卡持有人名称",
+        "name_card": "卡片上的名字",
+        "enter_card_number": "输入卡号",
+        "card_number": "卡号",
+        "cvv": "CVV",
+        "expire_date": "到期日期",
+        "credit_card": "信用卡",
+        "card_holder": "卡持有人"
+    },
+    "dining_area": {
+        "dining_area": "就餐区"
+    },
+    "guest_list": {
+        "guest_list": "嘉宾名单",
+        "add_guest": "添加客人",
+        "enter_guest_name": "输入来宾名称",
+        "add": "添加"
+    },
+    "home": {
+        "wedding_package": "婚礼包",
+        "wedding_venue": "著名的婚礼场地",
+        "trending_decore": "趋势折磨",
+        "onwards": "向前",
+        "view_all": "查看全部",
+        "categories": "类别",
+        "search": "搜索",
+        "select_city": "选择城市"
+    },
+    "message": {
+        "message": "信息",
+        "search": "搜索"
+    },
+    "notification": {
+        "notification": "通知",
+        "no_notification": "没有新的通知",
+        "remove_notification": "从通知中删除",
+        "ago": "前"
+    },
+    "onboarding": {
+        "text_1": "组织您的梦想婚礼",
+        "text_2": "找到您的理想场所",
+        "text_3": "列出来宾清单，管理您的预算",
+        "skip": "跳过",
+        "login": "登录",
+        "next": "下一个"
+    },
+    "package_detail": {
+        "add_shortlist": "Della Resorts套餐添加到候选名单",
+        "remove_shortlist": "Della Resorts软件包从候选名单中删除",
+        "image": "图片",
+        "check_availability": "检查可用性",
+        "review": "审查",
+        "similar_package": "类似的包裹",
+        "onward": "向前",
+        "albums": "专辑（16）",
+        "view_all": "查看全部",
+        "areas_available": "可用区域",
+        "outdoor": "户外的",
+        "seats": "座位",
+        "indoor": "室内的",
+        "package_price": "包装价格",
+        "onwards": "向前",
+        "include_all": "（包括所有功能）",
+        "about": "关于",
+        "show_less": "显示较少",
+        "read_more": "阅读更多",
+        "guest": "来宾"
+    },
+    "about_us": {
+        "about_us": "关于我们"
+    },
+    "booking": {
+        "booking": "预订",
+        "no_booking": "还没有预订",
+        "guest": "来宾",
+        "message": "信息",
+        "call": "称呼",
+        "remove_text": "您确定要删除预订场地吗？",
+        "no": "不",
+        "yes": "是的",
+        "remove": "消除"
+    },
+    "customer_support": {
+        "write_us": "写我们",
+        "text": "让我们知道您的要求",
+        "send": "发送",
+        "message": "信息",
+        "write_message": "在这里写消息",
+        "email_address": "电子邮件地址",
+        "enter_email": "请输入电邮地址",
+        "name": "姓名",
+        "enter_name": "输入你的名字",
+        "call_us": "打电话给我们",
+        "mail_us": "邮寄我们"
+    },
+    "edit_profile": {
+        "edit_profile": "编辑个人资料",
+        "save": "节省",
+        "email_address": "电子邮件地址",
+        "enter_email": "输入你的电子邮箱地址",
+        "mobile_number": "手机号码",
+        "enter_number": "输入你的手机号码",
+        "name": "姓名",
+        "enter_name": "输入你的名字",
+        "upload_image": "上传图片",
+        "camera": "相机",
+        "gallery": "画廊",
+        "remove": "消除"
+    },
+    "faqs": {
+        "faqs": "常见问题解答"
+    },
+    "language": {
+        "language": "语",
+        "select_language": "选择首选语言",
+        "update": "更新"
+    },
+    "privacy_policy": {
+        "privacy_policy": "隐私政策",
+        "terms_use": "使用条款"
+    },
+    "profile": {
+        "profile": "轮廓",
+        "edit_profile": "编辑个人资料",
+        "booking": "预订",
+        "budget": "预算",
+        "language": "语",
+        "about_us": "关于我们",
+        "faqs": "常见问题解答",
+        "privacy_policy": "隐私政策",
+        "customer_support": "客户支持",
+        "logout": "登出",
+        "logout_text": "您确定要注销吗？",
+        "no": "不"
+    },
+    "review": {
+        "review": "审查"
+    },
+    "search": {
+        "search": "搜索"
+    },
+    "success": {
+        "booking_success": "预订成功",
+        "back_home": "回到家"
+    },
+    "task": {
+        "task": "任务",
+        "plan_wedding": "计划你的婚礼",
+        "to_do_list": "要做列表",
+        "guestlist": "嘉宾名单",
+        "vendor_shortlist": "供应商入围名单",
+        "budget": "预算",
+        "days": "天",
+        "hrs": "HRS",
+        "mins": "分钟",
+        "secs": "第二节",
+        "upload_image": "上传图片",
+        "camera": "相机",
+        "gallery": "画廊",
+        "remove": "消除",
+        "save": "节省",
+        "groome_name": "新郎姓名",
+        "bride_name": "新娘名字",
+        "event_date": "活动日期"
+    },
+    "todo_list": {
+        "todo_list": "要做列表",
+        "task_done": "完成任务",
+        "day_left": "剩下的一天",
+        "done": "完毕",
+        "to_do": "去做"
+    },
+    "trending_decore": {
+        "trending_decore": "趋势折磨",
+        "onwards": "向前"
+    },
+    "vendors": {
+        "vendors": "供应商"
+    },
+    "vendor_shortlist": {
+        "vendor_shortlist": "供应商入围名单",
+        "add_shortlist": "添加入围名单",
+        "removed_shortlist": "从候选名单中删除",
+        "result": "结果"
+    },
+    "venue_available": {
+        "venue_available": "场地可用",
+        "book_now": "现在预订"
+    },
+    "venue_detail": {
+        "add_shortlist": "蓝色海宴会加入候选名单",
+        "remove_shortlist": "蓝色海宴从候选名单中删除",
+        "image": "图片",
+        "check_availability": "检查可用性",
+        "review": "审查",
+        "view_all": "查看全部",
+        "similar_venue": "类似的地点",
+        "onward": "向前",
+        "albums": "专辑（16）",
+        "areas_available": "可用区域",
+        "outdoor": "户外的",
+        "seats": "座位",
+        "indoor": "室内的",
+        "payment": "支付",
+        "onwards": "向前",
+        "advance_payment": "提前预订付款",
+        "about": "关于",
+        "show_less": "显示较少",
+        "read_more": "阅读更多",
+        "guest": "来宾"
+    },
+    "venues": {
+        "venue": "场地",
+        "guest": "来宾",
+        "add_shortlist": "蓝色海宴会加入候选名单",
+        "remove_shortlist": "蓝色海宴从候选名单中删除",
+        "search_venues": "搜索婚礼场地"
+    },
+    "venue_shortlist": {
+        "venues": "未来",
+        "guest": "来宾",
+        "message": "信息",
+        "call": "称呼",
+        "finalised": "最终确定"
+    },
+    "wedding_packages": {
+        "wedding_package": "婚礼包",
+        "onwards": "向前"
+    },
+    "wedding_venue": {
+        "famous_venue": "著名的婚礼场地",
+        "onwards": "向前"
+    }
+}

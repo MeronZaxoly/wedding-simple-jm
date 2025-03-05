@@ -1,0 +1,308 @@
+{
+    "exit_app": {
+        "app_exit": "बाहर निकलने के लिए एक बार फिर से दबाएं"
+    },
+    "albums": {
+        "albums": "एलबम",
+        "image": "छवि"
+    },
+    "login": {
+        "login": "लॉग इन करें",
+        "mobile_number": "मोबाइल नंबर",
+        "enter_number": "मोबाइल नंबर दर्ज करें",
+        "login_text": "कृपया अपना खाता लॉगिन करें"
+    },
+    "otp": {
+        "resend": "पुन: भेजें",
+        "verify": "सत्यापित करना",
+        "please_wait": "कृपया प्रतीक्षा करें",
+        "otp_text": "हमने आपको 4 अंकों के सत्यापन कोड (OTP) के साथ 1234567890 पर एक एसएमएस भेजा है",
+        "otp_verification": "ओटीपी सत्यापन"
+    },
+    "register": {
+        "register": "पंजीकरण करवाना",
+        "name": "नाम",
+        "enter_name": "अपना नाम दर्ज करें",
+        "mobile_number": "मोबाइल नंबर",
+        "enter_number": "मोबाइल नंबर दर्ज करें",
+        "email_address": "ईमेल पता",
+        "enter_email": "ईमेल पता दर्ज करें",
+        "create_account": "कृपया अपना खाता बनाएं"
+    },
+    "bottom_navigation": {
+        "home": "घर",
+        "vendors": "विक्रेताओं",
+        "task": "काम",
+        "message": "संदेश",
+        "profile": "प्रोफ़ाइल"
+    },
+    "budgets": {
+        "budgets": "बजट",
+        "expenses": "खर्च",
+        "add_expenses": "खर्च जोड़ें",
+        "enter_title": "शीर्षक दर्ज करें",
+        "enter_expenses": "खर्च दर्ज करें",
+        "add": "जोड़ें",
+        "add_budget": "अपने बजट जोड़ें",
+        "enter_budgets": "अपना बजट दर्ज करें",
+        "total_estimate": "कुल अनुमान",
+        "spent": "खर्च किया",
+        "remaining": "बचा हुआ"
+    },
+    "calling": {
+        "calling": "बुला रहा है ...",
+        "name": "ब्रुकलिन सीमन्स"
+    },
+    "chat": {
+        "name": "ब्लू देखें भोज",
+        "type_here": "यहां अपना पाठ लिखें...."
+    },
+    "check_availablility": {
+        "ring_ceremony": "रिंग समारोह",
+        "marriage": "विवाह",
+        "birthday_celebration": "जन्मदिन का जश्न",
+        "reception": "स्वागत समारोह",
+        "check_availability": "उपलब्धता जांचें",
+        "availability_text": "फ़ॉर्म को भरें \n लाभ की जाँच करें",
+        "number_guest": "अतिथि की संख्या",
+        "hint_number_guest": "अतिथि की संख्या",
+        "function_type": "समारोह प्रकार",
+        "event_date": "आयोजन दिनांक"
+    },
+    "credit_card": {
+        "payment_information": "भुगतान की जानकारी",
+        "payment": "भुगतान",
+        "enter_holder_name": "कार्ड धारक का नाम दर्ज करें",
+        "name_card": "कार्ड पर नाम",
+        "enter_card_number": "कार्ड नंबर दर्ज करें",
+        "card_number": "कार्ड नंबर",
+        "cvv": "सीवीवी",
+        "expire_date": "समाप्त होने की तिथि",
+        "credit_card": "क्रेडिट कार्ड",
+        "card_holder": "कार्ड धारक"
+    },
+    "dining_area": {
+        "dining_area": "भोजन क्षेत्र"
+    },
+    "guest_list": {
+        "guest_list": "मेहमानों की सूची",
+        "add_guest": "अतिथि जोड़ें",
+        "enter_guest_name": "अतिथि नाम दर्ज करें",
+        "add": "जोड़ें"
+    },
+    "home": {
+        "wedding_package": "शादी पैकेज",
+        "wedding_venue": "प्रसिद्ध शादी स्थल",
+        "trending_decore": "ट्रेंडिंग डिकोर",
+        "onwards": "से आगे",
+        "view_all": "सभी देखें",
+        "categories": "श्रेणियाँ",
+        "search": "खोज",
+        "select_city": "शहर चुनें"
+    },
+    "message": {
+        "message": "संदेश",
+        "search": "खोज"
+    },
+    "notification": {
+        "notification": "अधिसूचना",
+        "no_notification": "कोई नया नोटिफ़ायेशन नहीं",
+        "remove_notification": "अधिसूचना से हटा दिया गया",
+        "ago": "पहले"
+    },
+    "onboarding": {
+        "text_1": "अपने सपनों की शादी का आयोजन करें",
+        "text_2": "अपने सही स्थानों का पता लगाएं",
+        "text_3": "एक अतिथि सूची बनाएं, अपने बजट का प्रबंधन करें",
+        "skip": "छोड़ें",
+        "login": "लॉग इन करें",
+        "next": "अगला"
+    },
+    "package_detail": {
+        "add_shortlist": "डेला रिसॉर्ट्स पैकेज शॉर्टलिस्ट में जोड़ें",
+        "remove_shortlist": "डेला रिसॉर्ट्स पैकेज शॉर्टलिस्ट से निकालें",
+        "image": "छवि",
+        "check_availability": "उपलब्धता जांचें",
+        "review": "समीक्षा",
+        "similar_package": "समान पैकेज",
+        "onward": "आगे",
+        "albums": "एल्बम (16)",
+        "view_all": "सभी देखें",
+        "areas_available": "उपलब्ध क्षेत्र",
+        "outdoor": "घर के बाहर",
+        "seats": "सीटों",
+        "indoor": "घर के अंदर",
+        "package_price": "पैकेज कीमत",
+        "onwards": "से आगे",
+        "include_all": "(सभी कार्य शामिल करें)",
+        "about": "के बारे में",
+        "show_less": "कम दिखाएं",
+        "read_more": "अधिक पढ़ें",
+        "guest": "अतिथि"
+    },
+    "about_us": {
+        "about_us": "हमारे बारे में"
+    },
+    "booking": {
+        "booking": "बुकिंग",
+        "no_booking": "अभी तक कोई बुकिंग नहीं",
+        "guest": "अतिथि",
+        "message": "संदेश",
+        "call": "बुलाना",
+        "remove_text": "क्या आप सुनिश्चित हैं कि आप अपने बुकिंग स्थल को हटाना चाहते हैं?",
+        "no": "नहीं",
+        "yes": "हाँ",
+        "remove": "हटाना"
+    },
+    "customer_support": {
+        "write_us": "हमें लिखना",
+        "text": "आइए हम आपकी आवश्यकता को जानते हैं",
+        "send": "भेजना",
+        "message": "संदेश",
+        "write_message": "यहाँ संदेश लिखें",
+        "email_address": "ईमेल पता",
+        "enter_email": "ईमेल पता दर्ज करें",
+        "name": "नाम",
+        "enter_name": "अपना नाम दर्ज करें",
+        "call_us": "हमें बुलाओ",
+        "mail_us": "हमें मेल करें"
+    },
+    "edit_profile": {
+        "edit_profile": "प्रोफ़ाइल संपादित करें",
+        "save": "बचाना",
+        "email_address": "ईमेल पता",
+        "enter_email": "अपना ईमेल पता दर्ज करें",
+        "mobile_number": "मोबाइल नंबर",
+        "enter_number": "अपना मोबाइल नंबर दर्ज करें",
+        "name": "नाम",
+        "enter_name": "अपना नाम दर्ज करें",
+        "upload_image": "तस्विर अपलोड करना",
+        "camera": "कैमरा",
+        "gallery": "गेलरी",
+        "remove": "हटाना"
+    },
+    "faqs": {
+        "faqs": "पूछे जाने वाले प्रश्न"
+    },
+    "language": {
+        "language": "भाषा",
+        "select_language": "पसंदीदा भाषा का चयन करें",
+        "update": "अद्यतन"
+    },
+    "privacy_policy": {
+        "privacy_policy": "गोपनीयता नीति",
+        "terms_use": "उपयोग की शर्तें"
+    },
+    "profile": {
+        "profile": "प्रोफ़ाइल",
+        "edit_profile": "प्रोफ़ाइल संपादित करें",
+        "booking": "बुकिंग",
+        "budget": "बजट",
+        "language": "भाषा",
+        "about_us": "हमारे बारे में",
+        "faqs": "पूछे जाने वाले प्रश्न",
+        "privacy_policy": "गोपनीयता नीति",
+        "customer_support": "ग्राहक सहेयता",
+        "logout": "लॉग आउट",
+        "logout_text": "क्या आप लॉग आउट करना चाहते हैं?",
+        "no": "नहीं"
+    },
+    "review": {
+        "review": "समीक्षा"
+    },
+    "search": {
+        "search": "खोज"
+    },
+    "success": {
+        "booking_success": "बुकिंग सफल",
+        "back_home": "घर वापिस जा रहा हूँ"
+    },
+    "task": {
+        "task": "काम",
+        "plan_wedding": "अपनी शादी की योजना बनाएं",
+        "to_do_list": "करने के लिए सूची",
+        "guestlist": "मेहमानों की सूची",
+        "vendor_shortlist": "विक्रेता शॉर्टलिस्ट",
+        "budget": "बजट",
+        "days": "दिन",
+        "hrs": "बजे",
+        "mins": "मिनट",
+        "secs": "सेकेंड",
+        "upload_image": "तस्विर अपलोड करना",
+        "camera": "कैमरा",
+        "gallery": "गेलरी",
+        "remove": "हटाना",
+        "save": "बचाना",
+        "groome_name": "दूल्हे का नाम",
+        "bride_name": "दुल्हन का नाम",
+        "event_date": "आयोजन दिनांक"
+    },
+    "todo_list": {
+        "todo_list": "करने के लिए सूची",
+        "task_done": "कार्य किया",
+        "day_left": "दिन बचा है",
+        "done": "किया हुआ",
+        "to_do": "करने के लिए"
+    },
+    "trending_decore": {
+        "trending_decore": "ट्रेंडिंग डिकोर",
+        "onwards": "से आगे"
+    },
+    "vendors": {
+        "vendors": "विक्रेताओं"
+    },
+    "vendor_shortlist": {
+        "vendor_shortlist": "विक्रेता शॉर्टलिस्ट",
+        "add_shortlist": "संक्षिप्त सूची में नाम जोड़ें",
+        "removed_shortlist": "शॉर्टलिस्ट से हटा दिया गया",
+        "result": "नतीजा"
+    },
+    "venue_available": {
+        "venue_available": "स्थल उपलब्ध है",
+        "book_now": "अभी बुक करें"
+    },
+    "venue_detail": {
+        "add_shortlist": "ब्लू सी भोज शॉर्टलिस्ट में जोड़ते हैं",
+        "remove_shortlist": "ब्लू सी भोज शॉर्टलिस्ट से निकालते हैं",
+        "image": "छवि",
+        "check_availability": "उपलब्धता जांचें",
+        "review": "समीक्षा",
+        "view_all": "सभी देखें",
+        "similar_venue": "इसी तरह का स्थल",
+        "onward": "आगे",
+        "albums": "एल्बम (16)",
+        "areas_available": "उपलब्ध क्षेत्र",
+        "outdoor": "घर के बाहर",
+        "seats": "सीटों",
+        "indoor": "घर के अंदर",
+        "payment": "भुगतान",
+        "onwards": "से आगे",
+        "advance_payment": "अग्रिम बुकिंग भुगतान",
+        "about": "के बारे में",
+        "show_less": "कम दिखाएं",
+        "read_more": "अधिक पढ़ें",
+        "guest": "अतिथि"
+    },
+    "venues": {
+        "venue": "स्थान",
+        "guest": "अतिथि",
+        "add_shortlist": "ब्लू सी भोज शॉर्टलिस्ट में जोड़ते हैं",
+        "remove_shortlist": "ब्लू सी भोज शॉर्टलिस्ट से निकालते हैं",
+        "search_venues": "शादी के स्थानों को खोजें"
+    },
+    "venue_shortlist": {
+        "venues": "अ रहे है",
+        "guest": "अतिथि",
+        "message": "संदेश",
+        "call": "बुलाना",
+        "finalised": "अंतिम रूप दिया"
+    },
+    "wedding_packages": {
+        "wedding_package": "शादी पैकेज",
+        "onwards": "से आगे"
+    },
+    "wedding_venue": {
+        "famous_venue": "प्रसिद्ध शादी स्थल",
+        "onwards": "से आगे"
+    }
+}

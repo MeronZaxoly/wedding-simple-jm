@@ -1,0 +1,308 @@
+{
+    "exit_app": {
+        "app_exit": "اضغط مرة أخرى للخروج"
+    },
+    "albums": {
+        "albums": "ألبومات",
+        "image": "صورة"
+    },
+    "login": {
+        "login": "تسجيل الدخول",
+        "mobile_number": "رقم الهاتف المحمول",
+        "enter_number": "أدخل رقم الهاتف المحمول",
+        "login_text": "الرجاء تسجيل الدخول إلى حسابك"
+    },
+    "otp": {
+        "resend": "إعادة إرسال",
+        "verify": "يؤكد",
+        "please_wait": "أرجو الإنتظار",
+        "otp_text": "لقد أرسلنا لك الرسائل القصيرة على 1234567890 مع رمز التحقق من 4 أرقام (OTP)",
+        "otp_verification": "التحقق من OTP"
+    },
+    "register": {
+        "register": "يسجل",
+        "name": "اسم",
+        "enter_name": "أدخل أسمك",
+        "mobile_number": "رقم الهاتف المحمول",
+        "enter_number": "أدخل رقم الهاتف المحمول",
+        "email_address": "عنوان البريد الالكترونى",
+        "enter_email": "أدخل عنوان البريد الالكتروني",
+        "create_account": "الرجاء إنشاء حسابك"
+    },
+    "bottom_navigation": {
+        "home": "مسكن",
+        "vendors": "البائعون",
+        "task": "مهمة",
+        "message": "رسالة",
+        "profile": "الملف الشخصي"
+    },
+    "budgets": {
+        "budgets": "الميزانيات",
+        "expenses": "نفقات",
+        "add_expenses": "أضف النفقات",
+        "enter_title": "أدخل العنوان",
+        "enter_expenses": "أدخل النفقات",
+        "add": "يضيف",
+        "add_budget": "أضف ميزانياتك",
+        "enter_budgets": "أدخل ميزانياتك",
+        "total_estimate": "التقدير الكلي",
+        "spent": "أنفق",
+        "remaining": "متبقي"
+    },
+    "calling": {
+        "calling": "الدعوة ...",
+        "name": "بروكلين سيمونز"
+    },
+    "chat": {
+        "name": "الأزرق انظر المآدب",
+        "type_here": "اكتب النص هنا...."
+    },
+    "check_availablility": {
+        "ring_ceremony": "حفل الحلبة",
+        "marriage": "زواج",
+        "birthday_celebration": "احتفال عيد ميلاد",
+        "reception": "استقبال",
+        "check_availability": "التحقق من الصلاحية",
+        "availability_text": "املأ النموذج إلى \n تحقق متوفر",
+        "number_guest": "عدد الحضور",
+        "hint_number_guest": "عدد الحضور",
+        "function_type": "نوع الوظيفة",
+        "event_date": "تاريخ الحدث"
+    },
+    "credit_card": {
+        "payment_information": "معلومات الدفع",
+        "payment": "دفع",
+        "enter_holder_name": "أدخل اسم حامل البطاقة",
+        "name_card": "الاسم على البطاقة",
+        "enter_card_number": "أدخل رقم البطاقة",
+        "card_number": "رقم البطاقة",
+        "cvv": "CVV",
+        "expire_date": "تاريخ انتهاء الصلاحية",
+        "credit_card": "بطاقة الائتمان",
+        "card_holder": "حامل البطاقة"
+    },
+    "dining_area": {
+        "dining_area": "منطقة الطعام"
+    },
+    "guest_list": {
+        "guest_list": "قائمة الضيوف",
+        "add_guest": "أضف ضيفًا",
+        "enter_guest_name": "أدخل اسم الضيف",
+        "add": "يضيف"
+    },
+    "home": {
+        "wedding_package": "حزمة الزفاف",
+        "wedding_venue": "مكان الزفاف الشهير",
+        "trending_decore": "تتجه ديكور",
+        "onwards": "فصاعدا",
+        "view_all": "عرض الكل",
+        "categories": "فئات",
+        "search": "يبحث",
+        "select_city": "اختر مدينة"
+    },
+    "message": {
+        "message": "رسالة",
+        "search": "يبحث"
+    },
+    "notification": {
+        "notification": "تنبيه",
+        "no_notification": "لا توجد مكافحة جديدة",
+        "remove_notification": "تمت إزالته من الإخطار",
+        "ago": "منذ"
+    },
+    "onboarding": {
+        "text_1": "تنظيم حفل زفاف أحلامك",
+        "text_2": "ابحث عن أماكنك المثالية",
+        "text_3": "اصنع قائمة ضيوف ، وإدارة ميزانيتك",
+        "skip": "يتخطى",
+        "login": "تسجيل الدخول",
+        "next": "التالي"
+    },
+    "package_detail": {
+        "add_shortlist": "حزمة Della Resorts إضافة إلى القائمة المختصرة",
+        "remove_shortlist": "حزمة Della Resorts إزالة من القائمة المختصرة",
+        "image": "صورة",
+        "check_availability": "التحقق من الصلاحية",
+        "review": "إعادة النظر",
+        "similar_package": "حزمة مماثلة",
+        "onward": "فصاعدا",
+        "albums": "ألبومات (16)",
+        "view_all": "عرض الكل",
+        "areas_available": "المناطق المتاحة",
+        "outdoor": "في الخارج",
+        "seats": "مقاعد",
+        "indoor": "داخلي",
+        "package_price": "سعر الطرد",
+        "onwards": "فصاعدا",
+        "include_all": "(تشمل جميع الوظائف)",
+        "about": "حول",
+        "show_less": "تظهر أقل",
+        "read_more": "اقرأ أكثر",
+        "guest": "زائر"
+    },
+    "about_us": {
+        "about_us": "معلومات عنا"
+    },
+    "booking": {
+        "booking": "الحجز",
+        "no_booking": "لا الحجز حتى الآن",
+        "guest": "زائر",
+        "message": "رسالة",
+        "call": "مكالمة",
+        "remove_text": "هل أنت متأكد من أنك تريد إزالة مكان الحجز الخاص بك؟",
+        "no": "رقم",
+        "yes": "نعم",
+        "remove": "إزالة"
+    },
+    "customer_support": {
+        "write_us": "اكتب لنا",
+        "text": "دعونا نعرف متطلباتك",
+        "send": "إرسال",
+        "message": "رسالة",
+        "write_message": "اكتب رسالة هنا",
+        "email_address": "عنوان البريد الالكترونى",
+        "enter_email": "أدخل عنوان البريد الالكتروني",
+        "name": "اسم",
+        "enter_name": "أدخل أسمك",
+        "call_us": "اتصل بنا",
+        "mail_us": "أرسلنا بالبريد"
+    },
+    "edit_profile": {
+        "edit_profile": "تعديل الملف الشخصي",
+        "save": "يحفظ",
+        "email_address": "عنوان البريد الالكترونى",
+        "enter_email": "أدخل عنوان بريدك الالكتروني",
+        "mobile_number": "رقم الهاتف المحمول",
+        "enter_number": "أدخل رقم هاتفك المحمول",
+        "name": "اسم",
+        "enter_name": "أدخل أسمك",
+        "upload_image": "تحميل الصور",
+        "camera": "آلة تصوير",
+        "gallery": "صالة عرض",
+        "remove": "إزالة"
+    },
+    "faqs": {
+        "faqs": "الأسئلة الشائعة"
+    },
+    "language": {
+        "language": "لغة",
+        "select_language": "حدد اللغة المفضلة",
+        "update": "تحديث"
+    },
+    "privacy_policy": {
+        "privacy_policy": "سياسة الخصوصية",
+        "terms_use": "تعليمات الاستخدام"
+    },
+    "profile": {
+        "profile": "الملف الشخصي",
+        "edit_profile": "تعديل الملف الشخصي",
+        "booking": "الحجز",
+        "budget": "ميزانية",
+        "language": "لغة",
+        "about_us": "معلومات عنا",
+        "faqs": "الأسئلة الشائعة",
+        "privacy_policy": "سياسة الخصوصية",
+        "customer_support": "دعم العملاء",
+        "logout": "تسجيل خروج",
+        "logout_text": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+        "no": "رقم"
+    },
+    "review": {
+        "review": "إعادة النظر"
+    },
+    "search": {
+        "search": "يبحث"
+    },
+    "success": {
+        "booking_success": "حجز ناجح",
+        "back_home": "العودة إلى المنزل"
+    },
+    "task": {
+        "task": "مهمة",
+        "plan_wedding": "خطط لحفل الزفاف الخاص بك",
+        "to_do_list": "عمل قائمة",
+        "guestlist": "قائمة الضيوف",
+        "vendor_shortlist": "قائمة مختصرة البائع",
+        "budget": "ميزانية",
+        "days": "أيام",
+        "hrs": "ساعات",
+        "mins": "دقيقة",
+        "secs": "Secs",
+        "upload_image": "تحميل الصور",
+        "camera": "آلة تصوير",
+        "gallery": "صالة عرض",
+        "remove": "إزالة",
+        "save": "يحفظ",
+        "groome_name": "اسم العريس",
+        "bride_name": "اسم العروس",
+        "event_date": "تاريخ الحدث"
+    },
+    "todo_list": {
+        "todo_list": "عمل قائمة",
+        "task_done": "المهمة المنجز",
+        "day_left": "اليسار",
+        "done": "فعله",
+        "to_do": "لكى يفعل"
+    },
+    "trending_decore": {
+        "trending_decore": "تتجه ديكور",
+        "onwards": "فصاعدا"
+    },
+    "vendors": {
+        "vendors": "البائعون"
+    },
+    "vendor_shortlist": {
+        "vendor_shortlist": "قائمة مختصرة البائع",
+        "add_shortlist": "إضافة إلى القائمة المختصرة",
+        "removed_shortlist": "تمت إزالته من القائمة المختصرة",
+        "result": "نتيجة"
+    },
+    "venue_available": {
+        "venue_available": "المكان متاح",
+        "book_now": "احجز الآن"
+    },
+    "venue_detail": {
+        "add_shortlist": "المآدب البحر الأزرق تضيف إلى القائمة المختصرة",
+        "remove_shortlist": "مأدبة البحر الأزرق تزيل من القائمة المختصرة",
+        "image": "صورة",
+        "check_availability": "التحقق من الصلاحية",
+        "review": "إعادة النظر",
+        "view_all": "عرض الكل",
+        "similar_venue": "مكان مماثل",
+        "onward": "فصاعدا",
+        "albums": "ألبومات (16)",
+        "areas_available": "المناطق المتاحة",
+        "outdoor": "في الخارج",
+        "seats": "مقاعد",
+        "indoor": "داخلي",
+        "payment": "دفع",
+        "onwards": "فصاعدا",
+        "advance_payment": "الدفع المسبق",
+        "about": "حول",
+        "show_less": "تظهر أقل",
+        "read_more": "اقرأ أكثر",
+        "guest": "زائر"
+    },
+    "venues": {
+        "venue": "مكان",
+        "guest": "زائر",
+        "add_shortlist": "المآدب البحر الأزرق تضيف إلى القائمة المختصرة",
+        "remove_shortlist": "مأدبة البحر الأزرق تزيل من القائمة المختصرة",
+        "search_venues": "ابحث في أماكن الزفاف"
+    },
+    "venue_shortlist": {
+        "venues": "آت",
+        "guest": "زائر",
+        "message": "رسالة",
+        "call": "مكالمة",
+        "finalised": "تم الانتهاء منه"
+    },
+    "wedding_packages": {
+        "wedding_package": "حزمة الزفاف",
+        "onwards": "فصاعدا"
+    },
+    "wedding_venue": {
+        "famous_venue": "مكان الزفاف الشهير",
+        "onwards": "فصاعدا"
+    }
+}
