@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535362523817",
+    "project_id": "wedding-is-simple",
+    "storage_bucket": "wedding-is-simple.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535362523817:android:e95e693318e442fe4ecfb8",
+        "android_client_info": {
+          "package_name": "com.wedding_is_simple"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4M4zP4GqSRTQQxwkXHf4k7zIyS-DfT78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
